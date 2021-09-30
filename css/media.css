@@ -1,0 +1,130 @@
+
+/* ==== ==== 1. Extra-Small Devices ==== ==== */
+/* ==== ==== (X-sm) Screen ==== ==== */
+
+@media(max-width: 575.98px){
+    
+/* === === X-sm Common Start === ==== */
+/* === === X-sm Header Start === ==== */
+
+.navbar-nav {
+    text-align: center;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 0!important;
+    line-height: 18px;
+}
+
+.navbar .form-control {
+    width: 100%;
+}
+
+.navbar .btn-outline-success {
+    top: 10px;
+    right: 5px;
+}
+
+.err_sign {
+    top: -7px;
+    right: 8px;
+}
+
+.sp_wid {
+    width: 245px;
+    height: 79px;
+}
+
+.sp_pos_errsign {
+    top: -5px;
+}
+
+/* === === X-sm Form Start === ==== */
+
+.form_top h2 {
+    line-height: 35px;
+}
+
+.field_radio input {
+    margin-left: 20px;
+}
+
+/* ==== X-sm END ==== */
+    
+}
+
+/* ==== ==== 2. Small Devices ==== ==== */
+/* ==== ==== (sm) Screen ==== ==== */
+
+@media(min-width: 576px) and (max-width: 767.98px){
+    
+/* === === SM Common Start === ==== */
+/* === === SM Header Start === ==== */
+
+.navbar-nav {
+    text-align: center;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 0!important;
+    line-height: 18px;
+}
+
+.navbar .form-control {
+    width: 100%;
+}
+
+.navbar .btn-outline-success {
+    top: 18px;
+    right: 13px;
+}
+    
+/* ==== SM END ==== */
+    
+}
+
+/* ==== ==== 3. Medium Devices ==== ==== */
+/* ==== ==== (md) Screen ==== ==== */
+
+@media(min-width: 768px) and (max-width: 991.98px){
+
+/* === === MD Common Start === ==== *
+/* === === MD Header Start === ==== */
+
+.navbar-nav {
+    text-align: center;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 0!important;
+    line-height: 18px;
+}
+
+.navbar .form-control {
+    width: 100%;
+}
+
+.navbar .btn-outline-success {
+    top: 18px;
+    right: 13px;
+}
+    
+/* ==== MD END ==== */
+    
+}
+
+/* ==== ==== 4. Large Devices ==== ==== */
+/* ==== ==== (lg) Screen ==== ==== */
+
+@media(min-width: 992px) and (max-width: 1199.98px){
+    
+/* === === LG Common Start === ==== */
+/* === === LG Header Start === ==== */
+
+.navbar-nav .nav-link {
+    margin-right: 0px;
+}
+    
+/* ==== LG END ==== */
+    
+}

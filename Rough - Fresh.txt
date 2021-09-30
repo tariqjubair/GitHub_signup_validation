@@ -1,0 +1,31 @@
+
+
+<!-- ==== ==== Header Part Starts Here ==== ==== -->
+<!-- ==== ==== Header Part Ends Here ==== ==== -->
+
+
+/* ==== ==== Header part Starts Here  ==== ==== */
+/* ==== ==== Header part Ends Here  ==== ==== */
+
+
+/* -------- // ----- // ------- */
+
+
+
+
+
+
+
+
+
+/* ==== ==== 5. Extra-Large Devices ==== ==== */
+/* ==== ==== (xl) Screen ==== ==== */
+
+@media(min-width: 1200px) and (max-width: 1399.98px){
+    
+/* === === XL Common Start === ==== */
+/* === === XL Header Start === ==== */
+	
+/* ==== XL END ==== */
+	
+}
